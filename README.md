@@ -1,5 +1,5 @@
 # SRA's AutoSim Competition
-Simulation Competition for sophomores
+
 --------------------------------------------- Sample Arena --------------------------------------------------------------------------------------------
 
 1. Delete existing sample_arena_urdf and arena_with_qr from src. Add the new ones in src.

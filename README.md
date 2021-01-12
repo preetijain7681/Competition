@@ -2,7 +2,7 @@
 
 --------------------------------------------- Sample Arena --------------------------------------------------------------------------------------------
 
-1. Delete existing sample_arena_urdf and arena_with_qr from src. Add the new ones in src.
+1. Add the folders in src.
 
 2. Change path in line `7` of `launch_in_gz.launch ` (launcg_in_gz.launch is in arena_with_qr -> launch) 
    
@@ -29,7 +29,7 @@
 
 ---------------------------------------------------- Final Arena --------------------------------------------------------------------------------------
 
-1. Delete existing model and add marker10 to models in .gazebo.
+1. Add marker10 to models in .gazebo.
 
 2. Change path in line `7` of `final_arena.launch `
    
